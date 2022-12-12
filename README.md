@@ -4,3 +4,5 @@
 ![](algebra_0003.gif)
 ![](portal-2-twitch.jpeg)
 ![](twitch-politics-logo.png)
+
+Y(e^x | dx) = e^x
