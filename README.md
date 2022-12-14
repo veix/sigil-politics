@@ -6,4 +6,4 @@
 ![](twitch-politics-logo.png)
 ![](him-diablo-portal.png)
 
-Y(e^x | dx) = e^x
+e^x | dx = e^x
